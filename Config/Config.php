@@ -2,7 +2,7 @@
 	
 	//define("BASE_URL", "http://localhost/okamaster_rm/")okamaster.vercel.app
 	//const BASE_URL = "http://localhost/okamaster_rm";
-	const BASE_URL = "http://okamaster.vercel.app";
+	const BASE_URL = "https://cristian552.github.io/okamaster";
 
 	//Zona Horaria 
 	date_default_timezone_set('America/Bogota');
